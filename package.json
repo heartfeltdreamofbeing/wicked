@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.96.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git:https://github.com/heartfeltdreamofbeing/wicked.git"
+  },
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
