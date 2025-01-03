@@ -1,4 +1,5 @@
-{"publisher": "heartfeltdreamofbeing",
+{"name": "wicked",
+  "publisher": "heartfeltdreamofbeing",
 "version": "0.1.1",
     "engines": {
         "vscode": "^1.96.2"
