@@ -1,6 +1,7 @@
 {
   "name": "wicked",
   "type": "commonjs",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.96.2"
   },
