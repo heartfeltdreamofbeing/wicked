@@ -1,6 +1,9 @@
 {
   "name": "wicked",
   "type": "commonjs",
+  "engines": {
+    "vscode": "^1.96.2"
+  },
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
